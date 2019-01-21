@@ -1,6 +1,6 @@
 # Splash Screen
 
-A Simple Splash Screen Built With Flutter by DevFrost @mickfrost
+A Simple Splash Screen Built With Flutter by Ravindu @mickfrost
 
 ## Getting Started
 
