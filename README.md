@@ -1,4 +1,4 @@
-# splash_screen
+# Splash Screen
 
 A Simple Splash Screen Built With Flutter by DevFrost @mickfrost
 
